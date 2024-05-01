@@ -1,0 +1,26 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realericquach/forkify.git"
+  },
+  "author": "Eric Quach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realericquach/forkify/issues"
+  },
+  "homepage": "https://github.com/realericquach/forkify#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "fracty": "^1.0.9"
+  }
+}
